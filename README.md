@@ -2,22 +2,16 @@
 <h3 align="center">A passionate Discord Bot and Front-End developer from 𝒩𝑒𝓌 𝒵𝑒𝒶𝓁𝒶𝓃𝒹</h3>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on **Nothing really lol**
+- 🔭 I’m currently working on **S.b a advanced FREE discord selfbot. Repo coming soon™**
 
-- 🌱 I’m currently learning **Python, Discord.JS and Unity C#**
+- 🌱 I’m currently learning **Python, And Advanced C#**
 
-- 👯 I’m looking to collaborate on **front-end projects**
-
-- ⚡ What I like to do: **I love hanging out with friends, sports and basketball...and coding of course**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">Contact me:</h3>
 <div align="center"
 
-
-
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EExlar)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](s.s.s.a.e.g.g@gmail.com)
-  <h3>Discord: Saeg#1234</h3>
+  <h3>Discord: Sagee#1998</h3>
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   
 </div>
@@ -45,4 +39,4 @@
   </a>
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<h4>https://saegg.github.io/ || Last edited 11/5/2021 10:51 PM</h4>
+<h4>https://saegg.github.io/ || Last edited 25/09/2022 4:09 PM</h4>
