@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Discord Bot and Front-End developer from 𝒩𝑒𝓌 𝒵𝑒𝒶𝓁𝒶𝓃𝒹</h3>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on **S.b a advanced FREE discord selfbot. Repo coming soon™**
 
 - 🌱 I’m currently learning **Python, And Advanced C#**
 
